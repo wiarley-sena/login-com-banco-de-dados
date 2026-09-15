@@ -4,7 +4,7 @@ Aplicação de autenticação de usuários construída com **React**, **Vite** e
 
 🔗 **Demo ao vivo:** [link do deploy aqui](#)
 
-![preview do projeto](./docs/preview.png)
+![preview do projeto](./docs/preview.gif.gif)
 
 > Adicione um screenshot ou GIF do app funcionando na pasta `docs/` e atualize o link acima.
 
