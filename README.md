@@ -2,7 +2,7 @@
 
 Aplicação de autenticação de usuários construída com **React**, **Vite** e **Firebase** (Authentication + Firestore), com testes end-to-end automatizados usando **Playwright**.
 
-🔗 **Demo ao vivo:** [link do deploy aqui](https://login-com-banco-de-dados.vercel.app/)
+🔗 **Demo ao vivo:** [link do projeto](https://login-com-banco-de-dados.vercel.app/)
 
 ![preview do projeto](./docs/preview.gif.gif)
 
